@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 My name is Daniel</h1>
-=======================
+<p align="center">=======================</p>
 
-Web Developer
--------------
+<h3 align="center">Web Developer</h3>
+<p align="center">-------------</p>
 
 I've been learning to code for 1 year and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Node.js, and Angular using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
 
