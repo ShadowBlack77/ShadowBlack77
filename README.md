@@ -1,10 +1,10 @@
-Hi 👋 My name is Daniel
+<h1 align="center">Hi 👋 My name is Daniel</h1>
 =======================
 
 Web Developer
 -------------
 
-I've been learning to code for 1 year and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Node.js, React.js, and sometimes in Vue.js using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
+I've been learning to code for 1 year and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Node.js, and Angular using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
 
 *   🌍  I'm based in Poland
 *   ✉️  You can contact me at [ShadowBlack77@protonmail.com](mailto:ShadowBlack77@protonmail.com)
