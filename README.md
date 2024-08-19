@@ -31,7 +31,7 @@
     <div>
       <div>
         <div>
-          <h3>Front-end</h3>
+          <h3>Frontend</h3>
         </div>
         <div>
             <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
