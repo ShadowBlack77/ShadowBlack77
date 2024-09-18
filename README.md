@@ -51,6 +51,7 @@
         </div>
         <div>
           <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="36" height="36" alt="dotnet" /></a>
+          <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="36" height="36" alt="nestjs" /></a>
           <a href="https://ionic.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353912/ionic-icon.svg"  width="36" height="36" alt="ionic" /></a>
           <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Tauri.svg"  width="36" height="36" alt="tauri" /></a>
         </div>
