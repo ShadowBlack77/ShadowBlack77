@@ -19,7 +19,7 @@
         ✉️  You can contact me at <a href="mailto:ShadowBlack77@protonmail.com">ShadowBlack77@protonmail.com</a>
       </li>
       <li>
-        🧠  I'm learning ASP.NET
+        💭  Currently I'm focusing on Angular | ReactJS | Laravel
       </li>
       <li>
         ⚡  Everything is Possible! 
