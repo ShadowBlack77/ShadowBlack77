@@ -7,7 +7,7 @@
   </div>
   <div>
      <p>
-        I've been learning to code for 2 years and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Laravel, NestJS, Firebase and Angular using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
+        I've been learning to code for 3 years and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Java, NestJS, Firebase and Angular using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
      </p><br/> <br/>
   </div>
   <div>
@@ -19,7 +19,7 @@
         ✉️  You can contact me at <a href="mailto:ShadowBlack77@protonmail.com">ShadowBlack77@protonmail.com</a>
       </li>
       <li>
-        💭  Currently I'm focusing on Angular | ReactJS | Laravel
+        💭  Currently I'm focusing on Angular | Java | Spring Boot
       </li>
       <li>
         ⚡  Everything is Possible! 
@@ -50,8 +50,7 @@
           <h3>Backend</h3>
         </div>
         <div>
-          <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="dotnet" /></a>
-          <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="dotnet" /></a>
+          <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
           <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="36" height="36" alt="nestjs" /></a>
           <a href="https://ionic.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353912/ionic-icon.svg"  width="36" height="36" alt="ionic" /></a>
           <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Tauri.svg"  width="36" height="36" alt="tauri" /></a>
