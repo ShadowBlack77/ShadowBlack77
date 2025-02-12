@@ -50,9 +50,9 @@
           <h3>Backend</h3>
         </div>
         <div>
-          <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
           <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="36" height="36" alt="nestjs" /></a>
           <a href="https://docs.nodejs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="36" height="36" alt="nodejs" /></a>
+                    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
           <a href="https://ionic.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353912/ionic-icon.svg"  width="36" height="36" alt="ionic" /></a>
           <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Tauri.svg"  width="36" height="36" alt="tauri" /></a>
         </div>
