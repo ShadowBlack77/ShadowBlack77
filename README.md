@@ -19,7 +19,7 @@
         ✉️  You can contact me at <a href="mailto:ShadowBlack77@protonmail.com">ShadowBlack77@protonmail.com</a>
       </li>
       <li>
-        💭  Currently I'm focusing on Angular | NestJS | Java | Spring Boot
+        💭  Currently I'm focusing on Angular | NestJS | NodeJS
       </li>
       <li>
         ⚡  Everything is Possible! 
