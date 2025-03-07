@@ -16,7 +16,7 @@
         🌍  I'm based in Poland
       </li>
       <li>
-        ✉️  You can contact me at <a href="mailto:ShadowBlack77@protonmail.com">ShadowBlack77@protonmail.com</a>
+        ✉️  You can contact me at <a href="mailto:shadowblack77.dev@gmail.com">shadowblack77.dev@gmail.com</a>
       </li>
       <li>
         💭  Currently I'm focusing on Angular | NestJS | NodeJS
