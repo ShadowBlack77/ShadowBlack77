@@ -1,14 +1,7 @@
+
 <div>
   <div>
     <h1 align="center">Hi 👋 My name is Daniel</h1>
-  </div>
-  <div>
-    <h3 align="center">Full-Stack Developer</h3>
-  </div>
-  <div>
-     <p>
-        I've been learning to code for 3 years and have experience building web apps and creating their backends. I started my coding adventure by learning HTML and CSS, then moved on to JavaScript. Today, I build apps in Java, NodeJS, NestJS, Firebase and Angular using various SQL or NoSQL databases. I enjoy coding in both Front-End and Back-End, and in the future, I aspire to be a full-stack developer!
-     </p><br/> <br/>
   </div>
   <div>
     <ul>
@@ -19,7 +12,7 @@
         ✉️  You can contact me at <a href="mailto:shadowblack77.dev@gmail.com">shadowblack77.dev@gmail.com</a>
       </li>
       <li>
-        💭  Currently I'm focusing on Angular | NestJS | NodeJS
+        💭  Currently I'm focusing on Angular | NestJS | .NET
       </li>
       <li>
         ⚡  Everything is Possible! 
@@ -27,58 +20,46 @@
     </ul>
   </div>
   <div>
-    <div>
-      # 💻 Tech Stack:
-    </div>
-    <div>
-      <div>
-        <div>
-          <h3>Frontend</h3>
-        </div>
-        <div>
-          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-            <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-            <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-            <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-        </div>
-      </div>
-      <div>
-        <div>
-          <h3>Backend</h3>
-        </div>
-        <div>
-          <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373872/nestjs.svg" width="36" height="36" alt="nestjs" /></a>
-          <a href="https://docs.nodejs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="36" height="36" alt="nodejs" /></a>
-                    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
-          <a href="https://ionic.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353912/ionic-icon.svg"  width="36" height="36" alt="ionic" /></a>
-          <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Tauri.svg"  width="36" height="36" alt="tauri" /></a>
-        </div>
-      </div>
-      <div>
-        <div>
-          <h3>Database</h3>
-        </div>
-        <div>
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-          <a href="https://www.postgresql.org.pl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgresql" /></a>
-        </div>
-      </div>
-      <div>
-          <div>
-              <h3>Others</h3>
-          </div>
-          <div>
-              <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Firebase" /></a>
-              <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Firebase" /></a>
-              <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Firebase" /></a>
-          </div>
-      </div>
-    </div>
+    <h1>💻 Tech Stack:</h1>
   </div>
-</div>   
+</div>
+
+<h3>Frontend:</h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3>Backend:</h3>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<h3>Database:</h3>
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+<h3>Desktop:</h3>
+
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+<h3>Mobile:</h3>
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<h3>Others:</h3>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
